@@ -1,0 +1,22 @@
+
+.container{
+  border: 1px solid black;
+  padding: 2em;
+  text-align: left;
+}
+
+h1{
+  font-size: 2.5em;
+  color: cornflowerblue;
+  letter-spacing: 3px;
+}
+
+
+span{
+  text-decoration: underline;
+}
+
+button{
+  border: 1px solid black;
+  margin-top: 5px;
+}
